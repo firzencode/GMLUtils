@@ -1,2 +1,2 @@
 # GMLUtils
-GameMakerLanguage Utils Script for GMS2
+GameMaker Language Utils Script for GameMaker Studio 2
